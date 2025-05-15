@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="woman">This is an emergency call. If you are in danger, please try to get to safety.</Say>
+    <Pause length="2"/>
+    <Say voice="woman">Police have been notified of your location and are on their way.</Say>
+    <Pause length="3"/>
+    <Say voice="woman">Stay on the line if possible. The dispatcher will come on shortly.</Say>
+    <Pause length="5"/>
+    <Say voice="woman">Emergency services have been dispatched to your location.</Say>
+    <Pause length="10"/>
+    <Say voice="woman">Help is on the way. Please stay calm.</Say>
+    <Pause length="20"/>
+    <Say voice="woman">Police are almost at your location. Stay safe.</Say>
+    <Pause length="5"/>
+    <Say voice="woman">This call is being recorded for emergency purposes.</Say>
+    <Pause length="10"/>
+    <Say voice="woman">Emergency call complete. Stay safe.</Say>
+</Response>

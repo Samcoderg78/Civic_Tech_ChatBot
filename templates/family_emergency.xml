@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="woman">Hey, it's mom. There's an emergency at home.</Say>
+    <Pause length="2"/>
+    <Say voice="woman">We need you to come right away. The situation is urgent.</Say>
+    <Pause length="3"/>
+    <Say voice="woman">Please call me back as soon as you can.</Say>
+    <Pause length="5"/>
+    <Say voice="woman">I hope you can get home soon. It's important.</Say>
+    <Pause length="3"/>
+    <Say voice="woman">This is a family emergency. Please come home now if possible.</Say>
+    <Pause length="5"/>
+    <Say voice="woman">Call completed.</Say>
+</Response>
